@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración con información sensible
+.env
+
+# Archivos de presentaciones (opcional, depende si quieres incluirlos)
+# Descomentar si no quieres incluir las presentaciones
+# originales/
+# traducidos/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
